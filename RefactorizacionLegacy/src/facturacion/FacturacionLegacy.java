@@ -1,3 +1,5 @@
+package facturacion;
+
 /**
  * Clase Legacy del sistema de facturación.
  * Optimizado
